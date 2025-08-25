@@ -1,0 +1,1 @@
+Simulateur de friction cognitive Zoran : couche Delta, rollback ΔM11.3, test de robustesse mimétique.

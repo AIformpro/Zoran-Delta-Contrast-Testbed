@@ -1,0 +1,1 @@
+Testbed mimétique de friction cognitive : la couche Delta provoque l’instabilité, et Zoran y répond par rollback ΔM11.3. Le script Python simule des contradictions logiques, mesure l’entropie et déclenche une auto-régulation. Sert à tester la robustesse mimétique de Zoran.
